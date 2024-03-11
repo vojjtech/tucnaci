@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+}
+header {
+    background-image: url(../img/drevo.jpg);
+    font-size: 50px;
+}
+p {
+    color: rgb(21, 27, 27);
+    font-size: 25px;
+}
+a {
+    color: black;
+    font-size: 35px;
+}
+a:visited{
+    color: darksalmon;
+}
+a:hover {
+    color: rgb(14, 255, 58);
+}
+
+menu{
+    list-style-type:square;
+}
