@@ -1,10 +1,21 @@
 body {
+    display: flex;
+    flex-direction: column;
     background-color: beige;
 }
 header {
     background-image: url(../img/drevo.jpg);
     font-size: 50px;
+    height: fit-content;
+    width: 100%;
 }
+
+footer {
+    width: 100%;
+    height: fit-content;
+}
+
+
 p {
     color: rgb(21, 27, 27);
     font-size: 25px;
